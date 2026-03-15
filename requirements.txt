@@ -4,3 +4,6 @@ langchain-google-genai
 langchain-openai
 google-generativeai
 python-dotenv
+langchain-community
+pypdf
+langchain-text-splitters
